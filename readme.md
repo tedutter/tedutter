@@ -3,7 +3,7 @@
 
 ## I’m a data professional and full stack developer who loves working on data solutions, ETL processes and workflows. I work with SQL, Python and Docker. 
 
-- &nbsp; Excelent with writing SQL queries, stored proceedures
+- &nbsp; Excelent with writing SQL queries, stored proceedures, views and functions
 - &nbsp; Proficient with using Python for data manipulation
 - &nbsp; Enthusiastic about learning new languages and technologies
 - &nbsp; Activities: I like cycling and photography
@@ -32,6 +32,7 @@
 ## Links
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge)](https://tedutter.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tedutter/)
+
 
 
 
