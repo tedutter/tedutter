@@ -1,5 +1,5 @@
 [![ProfileBanner](https://github.com/tedutter/general-assets/blob/main/Git_Back._Head.jpg?raw=true)](https://tedutter.com)
-###&nbsp;About Me
+### &nbsp;About Me
 
 ## I’m a data professional and full stack developer who loves working on data solutions, ETL processes and workflows. I work with SQL, Python and Docker. 
 
@@ -32,4 +32,5 @@
 ## Links
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge)](https://tedutter.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tedutter/)
+
 
