@@ -25,13 +25,14 @@
 
 ---
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tedutter&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
 ### Connect with Me 
 
 ## Links
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge)](https://tedutter.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tedutter/)
+
 
 
 
